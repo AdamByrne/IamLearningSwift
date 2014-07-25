@@ -1,4 +1,3 @@
 LearningSwift
 =============
-
-Here is my attempt at learning swift by creating samples.
+I am learning Swift the new programming language for IOS8 app development. Here are my examples for learning Swift!
