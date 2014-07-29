@@ -1,4 +1,4 @@
-class Animal() {
+class Animal {
 var name: String = "none"
 var age: Int = 0
 
